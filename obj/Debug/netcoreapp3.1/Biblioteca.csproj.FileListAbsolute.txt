@@ -1,0 +1,177 @@
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\scopedcss\bundle\Biblioteca.styles.css
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\yanna\Documents\Senac\C#\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\edair\Downloads\Biblioteca_UC07-main\Biblioteca_UC07-main\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+G:\Meu Drive\PC Pessoal\Docs2021\Curso_tecnico_Senac\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
