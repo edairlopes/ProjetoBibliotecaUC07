@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\Biblioteca.csproj": {}
+    "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\UC07\\At02\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\Biblioteca.csproj": {
+    "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\UC07\\At02\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\UC07\\At02\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\UC07\\At02\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\edair\\.nuget\\packages\\",
-        "outputPath": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\obj\\",
+        "outputPath": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\UC07\\At02\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\edair\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
         }
       }
     }

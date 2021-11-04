@@ -18,7 +18,7 @@ namespace Biblioteca.Controllers
         {
             Usuario u = new UsuarioService().Listar(id);
 
-            return View();
+            return View(u);
         }
 
         [HttpPost]
@@ -50,24 +50,25 @@ namespace Biblioteca.Controllers
             return RedirectToAction("cadastroRealizado");
         }
 
-        public IActionResult ExcluirUsuario(int id)
-        {
-            return View(new UsuarioService().Listar(id));
+       public IActionResult ExcluirUsuario (int id)
+        {    
+            Usuario user2= new UsuarioService().Listar(id); 
+            return View(user2);
         }
 
         [HttpPost]
-        public IActionResult ExcluirUsuario(string decisao, int id)
+        public IActionResult ExcluirUsuario (string decisao,int id)
         {
-            if (decisao == "EXCLUIR")
+            if(decisao=="EXCLUIR")
             {
-                ViewData["Mensagem"] = "Exclusão do usuario " + new UsuarioService().Listar(id).Nome + " realizada com sucesso";
+                ViewData["Mensagem"]= "Exclusao do usuario "+  new UsuarioService().Listar(id).Nome+  " realizado com sucesso";
                 new UsuarioService().excluirUsuario(id);
-                return View("ListaDeUsuario", new UsuarioService().Listar());
+                return View ("ListaDeUsuarios", new UsuarioService().Listar());
             }
             else
             {
-                ViewData["Mensagem"] = "Exclusão cancelada";
-                return View("ListaDeUsuario", new UsuarioService().Listar());
+                ViewData["Mensagem"]= "Exclusao cancelada";
+                return View ("ListaDeUsuarios", new UsuarioService().Listar());
             }
         }
 

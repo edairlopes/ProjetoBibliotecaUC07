@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SFwWg3y1ay+kTnWNshClb8FcQy3uB5UGEjhF3sYE4kxQqzvslxkNN9WlDYbYKRao6vy4oaGbN4ekQx6UfwgmnQ==",
+  "dgSpecHash": "1+Rgj+p0rwDMt/T9oyPXKTxk2sl335Y4CLIQMA5y/m9Ki+QmHP3az4oOU6plefl/+AHswfDcdtcGpDx3qp2qiA==",
   "success": true,
-  "projectFilePath": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "G:\\Meu Drive\\PC Pessoal\\Docs2021\\Curso_tecnico_Senac\\UC07\\UC07\\At02\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edair\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\edair\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
